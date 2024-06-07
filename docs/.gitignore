@@ -1,6 +1,2 @@
 _build/*/
-# No ignorar el directorio html
-!_build/html/
-# No ignorar el contenido dentro del directorio html
-!_build/html/**
 .vscode
