@@ -115,3 +115,42 @@ that includes:
   how learning outcomes were met.
 * Closing Evaluation:reflection on the course value, motivation, strengths, weaknesses, 
   suggestions, and recommendations.
+
+
+Point System
+--------------
+
+To address procrastination and emphasize the importance of the process 
+over results, a weekly point system was implemented across different 
+phases of the course, aligned with the BEC framework.
+
+Engage (Comprometerse): Weeks 1-3
+
+* Weekly points: 5/3 points per week.
+* Focus: Documenting engagement, initial reflections, and planning.
+
+Investigate (Investigar): Weeks 4-8
+
+* Weekly points: 1 point per week.
+* Focus: Researching, documenting findings, and reflecting on guiding questions.
+
+Act (Actuar): Weeks 9-13
+
+* Weekly points: 3/5 points per week (process), 2 points for final result.
+* Focus: Designing, implementing, and testing applications. Process valued at 60%, result at 40%.
+
+Share (Compartir): Weeks 14-16
+
+* Total points: 5 points for the final result, distributed as:
+
+  * Research synthesis: 0.5 points
+  * Learning outcome 1 evidence: 1 point
+  * Learning outcome 2 evidence: 1 point
+  * Learning outcome 3 evidence: 1 point
+  * Demo video: 1 point
+  * Closing evaluation: 0.5 points
+
+This point system was designed to help students see the value in 
+consistent effort and incremental progress, reducing the tendency to 
+procrastinate and enhancing their belief in their capability to manage 
+and complete tasks effectively.
